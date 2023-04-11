@@ -1,0 +1,27 @@
+Main menu screen:
+ - groceries
+ - food
+ - delivery
+ 
+Groceries screen:
+ - list of asian groceries in pictures and name bellow the picture and all categorised (seafood, rice, noodles, vegetables, fruits, spices, and herbs)
+ - clicking the picture adds it to the shopping cart, you can check the shopping cart what it contains by clicking shoppig cart button in the top right of the screen
+ 
+Food screen:
+ - list of asian food by categories (chinese, japanese, korean, thai, indian, vietnamese, malaysin)
+ - each food is in a picture and works like in groceries creen; clicking the picture of the food add 1 value to the shopping cart
+ 
+Shopping cart:
+ - contains the list of all the things the buyer has put in it
+ - clicking the "-" button on the left of the product name removes 1 value of that product
+ - clicking the "+" button on the right of the product name adds 1 value more of that product
+ - by clicking on the back button in bottom left of the screen goes back to the previous page
+ 
+Delivery screen:
+ - choose which city
+ - then fill in the address and destination details
+ - ok button leads to final screen
+ 
+Final screen:
+ - bill check and order button for confirmation
+ - confirm button sends an order and leads to Main menu screen
